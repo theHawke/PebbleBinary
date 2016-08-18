@@ -1,0 +1,27 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "Hauke Neitzel",
+    "longName": "SimpleBinary",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/binary.png",
+                "menuIcon": true,
+                "name": "IMAGE_MENU_SMALL",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "2",
+    "shortName": "MinBinary",
+    "uuid": "45eb4d1f-3f7a-4a34-a6ff-c9f01159142c",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
